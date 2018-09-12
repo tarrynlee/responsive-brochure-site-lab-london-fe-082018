@@ -4,6 +4,7 @@ img {
 
 h1 {
   font-family: Helvetica;
+  justify-content: center;
 }
 
 .flex-container {
@@ -12,5 +13,3 @@ h1 {
   height: 100vh;
 }
   
-body {justify-content: center;
-}
